@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-color: azure;
+}
+header h1{
+    text-align: center;
+    background-color: rgb(91, 158, 136);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    color: wheat;
+}
+header img{
+   position: relative;
+   left: 23%;
+   border-radius: 5px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin: 100px;
+    background-image: linear-gradient(rgb(87, 153, 148), rgb(73, 168, 149));
+    padding: 5px;
+    border-radius: 5px;
+}
+main p{
+    text-align: center;
+    color: rgb(33, 56, 48);
+}
+.ff{
+   height: 40px; 
+   width: 40px;
+}
+.kk{
+    background-color: rgb(119, 179, 179);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.infa{
+background-image: linear-gradient(azure,rgb(179, 226, 245));
+border-radius: 6px;
+}
+.gegege{
+ background-image: linear-gradient(azure,rgb(179, 226, 245));
+border-radius: 6px;  
+}
+.buildy{
+background-image: linear-gradient(azure,rgb(179, 226, 245));
+border-radius: 6px;   
+}
+footer{
+    background-color: rgb(131, 202, 185);
+    border-radius: 5px;
+    padding: 2px;
+    border: 5px dashed rgb(70, 131, 123) ;
+    padding-left: 10px;
+    color: white;
+}
+main h2{
+   color: rgb(135, 180, 161); 
+}
+.hh{
+    height: 30px;
+    padding-left: 10px;
+}
+
